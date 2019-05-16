@@ -1,5 +1,6 @@
 ## nacos
 ---
 
+* [安装、启动](doc/setup.md)
 
-* [安装、启动](https://nacos.io/zh-cn/docs/quick-start.html)
+* [spring boot 集成nacos的服务发现](doc/2.md)
