@@ -8,6 +8,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>nacos-spring-boot-register-example</module>
         <module>nacos-spring-boot-discovery-example</module>
     </modules>
 
